@@ -11,7 +11,6 @@ public class TwitterAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TwitterAppApplication.class, args);
-		System.out.println("Hello From Main !!");
 	}
 
 }
