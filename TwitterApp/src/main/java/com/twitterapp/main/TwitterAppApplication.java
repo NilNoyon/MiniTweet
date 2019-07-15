@@ -7,7 +7,6 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 @SpringBootApplication
 @ComponentScan("com.twitterapp.controller")
-@EnableJpaRepositories("com.twitterapp.repository")
 public class TwitterAppApplication {
 
 	public static void main(String[] args) {
