@@ -23,7 +23,8 @@ To-Do
 Running the application locally
 
 There are several ways to run a Spring Boot application on your local machine. One way is to execute the main method in the com.twitterapp.main.TwitterAppApplication class from your IDE( I used Spring Tool Suite (STS) ). Make sure you have install JDK 1.8 or higher .
-Download the zip or clone the Git repository. Unzip the zip file (if you downloaded one) Open Command Prompt and Change directory (cd) to folder containing pom.xml 
+Download the zip or clone the Git repository. Unzip the zip file (if you downloaded one) Open Command Prompt and Change directory (cd) to folder containing pom.xml. 
+
     Open Eclipse 
     File -> Import -> Existing Maven Project -> Navigate to the folder where you unzipped the zip Select the project Choose the Spring Boot Application file (search for @SpringBootApplication) Right Click on the file and Run as Java Application
 
